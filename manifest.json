@@ -1,0 +1,16 @@
+{
+  "name": "Gabriel Pacheco - Senior Fullstack Developer",
+  "short_name": "GP Portfolio",
+  "description": "Portfólio profissional de desenvolvimento web fullstack e WordPress.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#00ff41",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "48x48",
+      "type": "image/x-icon"
+    }
+  ]
+}

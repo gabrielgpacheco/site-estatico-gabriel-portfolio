@@ -1,0 +1,10 @@
+Thumbs.db
+.DS_Store
+*.log
+# privado local — nunca vai para o GitHub
+MIGRACAO-GABRIEL-PORTFOLIO.md
+# backup/dump — nunca commitar
+*.sql
+*.zip
+*.gz
+*.tar.gz
